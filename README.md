@@ -193,8 +193,10 @@ The script resumes from the latest checkpoint and saves new checkpoints after ea
 
 Visualizations of the model's performance are below:
 
-- **Training Loss Graph**: ![Training Loss Graph](/metrics/training_loss.png)
-- **Confusion Matrix**: ![Confusion Matrix](/metrics/confusion_matrix.png)
+- **Training Loss Graph**:
+- ![Training Loss Graph](/metrics/training_loss.png)
+- **Confusion Matrix**:
+- ![Confusion Matrix](/metrics/confusion_matrix.png)
 
 The model, evaluated on test data, achieved these metrics:
 
