@@ -22,12 +22,12 @@ This tool, designed around Microsoft's CvT-13 model, has been custom-tuned to be
 
 1. [Dataset](#dataset)
 2. [File Structure](#file-structure)
-3. [Preparing for Quick Start](#preparing-for-quick-start)
-4. [Quick Start](#quick-start)
-5. [Results](#results)
-6. [Contributing](#contributing)
+3. [Preparing for Quick Start](preparing-for-quick-start-)
+4. [Quick Start](#quick-start-)
+5. [Results](#results-)
+6. [Contributing](#contributing-)
 7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+8. [Acknowledgments](#acknowledgments-)
 
 
 ## Dataset
