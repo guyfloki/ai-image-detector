@@ -29,16 +29,17 @@ This tool, designed around Microsoft's CvT-13 model, has been custom-tuned to be
 7. [License](#license)
 8. [Acknowledgments](#acknowledgments)
 
+
 ## Dataset
 
 The model's development leveraged a comprehensive dataset originally curated by [AWSAF](https://github.com/awsaf49/artifact), consisting of approximately 2.5 million images that include a mix of AI-generated and human-created images. To enhance the training and testing process, this dataset was further processed and organized, ensuring an efficient and effective fine-tuning phase for the CvT-13 model to achieve high accuracy and performance.
 
 Due to the substantial size of the training and testing datasets, they are not hosted on GitHub but are made available via Google Drive for convenience:
 
-- **Training Data**: [Train.zip](https://drive.google.com/file/d/1-1ddgedsRSvJm3ERQwJPy4tq4cB0uWe9/view?usp=sharing)
-- **Testing Data**: [Test.zip](https://drive.google.com/file/d/1-1xneYPH9fgSPCVnlZrhCM6c0FpFEl6B/view?usp=sharing)
-- **Train Labels**: [train.csv](https://drive.google.com/file/d/1rM2r7cxve7ApXCHTlBnMyD50n5hfnoAX/view?usp=sharing)
-- **Test Labels**: [test.csv](https://drive.google.com/file/d/1-GzzsszBlrmUHaDvoqVJgFfLvzRQDaBV/view?usp=sharing)
+- **Training Data**: [Train.zip](https://drive.google.com/file/d/1-1ddgedsRSvJm3ERQwJPy4tq4cB0uWe9/view?usp=sharing) **26.47 GB**
+- **Testing Data**: [Test.zip](https://drive.google.com/file/d/1-1xneYPH9fgSPCVnlZrhCM6c0FpFEl6B/view?usp=sharing) **2.93 GB**
+- **Train Labels**: [train.csv](https://drive.google.com/file/d/1rM2r7cxve7ApXCHTlBnMyD50n5hfnoAX/view?usp=sharing) **95.6 MB**
+- **Test Labels**: [test.csv](https://drive.google.com/file/d/1-GzzsszBlrmUHaDvoqVJgFfLvzRQDaBV/view?usp=sharing) **10.2 MB**
 
 To replicate the training and evaluation results of this model, please download the above datasets before proceeding with the setup.
 
@@ -84,7 +85,7 @@ Before diving into the Quick Start, ensure your environment is set up correctly.
 
 The model weights file is too large to be hosted on GitHub and is instead available via Google Drive. Please download the model weights before proceeding with the setup:
 
-- **Model Weights**: [Download Here](https://drive.google.com/file/d/1Wb1z9d_Nr4nKKYaevBym684xYGpvJRhY/view?usp=sharing)
+- **Model Weights**: [Download Here](https://drive.google.com/file/d/1Wb1z9d_Nr4nKKYaevBym684xYGpvJRhY/view?usp=sharing) **226.6 MB**
 
 After downloading, move the file into the `ai-image-detector/models/` directory. You can do this manually or by running the following command in your terminal:
 
