@@ -7,6 +7,7 @@ Identifying whether images are AI-generated or human-made is crucial as AI's cap
 The AI Image Detector project endeavors to provide a tool for reliably distinguishing between AI-generated and human-created images. This is especially important in areas where the authenticity of an image is critical, such as journalism and legal matters.
 
 ## Overview and Model Information 🌐📊
+![CvT-13 Model Architecture](https://github.com/microsoft/CvT/blob/main/figures/pipeline.svg)
 
 This tool, designed around Microsoft's CvT-13 model, has been custom-tuned to better discern between AI and human image generation. Training on a dataset of 2.5 million varied images has significantly advanced its image recognition capabilities. The integration with Hugging Face's API further enhances its usability and adaptability.
 
