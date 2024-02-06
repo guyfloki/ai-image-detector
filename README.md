@@ -11,6 +11,8 @@ The AI Image Detector project endeavors to provide a tool for reliably distingui
 
 This tool, designed around Microsoft's CvT-13 model, has been custom-tuned to better discern between AI and human image generation. Training on a dataset of 2.5 million varied images has significantly advanced its image recognition capabilities. The integration with Hugging Face's API further enhances its usability and adaptability.
 
+### HuggingFace🤗
+Coming soon...
 
 ### Key Features 🚀
 
